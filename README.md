@@ -1,2 +1,1 @@
-# H-Thai-M-L
-SDSU HTML ASSIGNMENT 1
+# Activity: Restaurant Menu
